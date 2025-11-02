@@ -4,3 +4,5 @@ finetune_clap 權重檔因過大 存於雲端 網址 :https://drive.google.com/f
 第20 epoch的LoRA adaptator weight 權重檔因過大 存於雲端 網址 :https://drive.google.com/file/d/16rCT5x3rjKHIjFkHH8waJY2JxaATIgMA/view?usp=drive_link
 
 第20 epoch的projector 權重檔因過大 存於雲端 網址:https://drive.google.com/file/d/1-Jj9YPjhruCJEkzyjcnQo7WTEwrwAqX3/view?usp=sharing
+
+音訊檔因過大 存於雲端 網址:https://drive.google.com/file/d/1PcmHdwfIO7FenuLS7-uSBZf6em2bmpU2/view?usp=sharing
